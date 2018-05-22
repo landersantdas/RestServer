@@ -1,6 +1,9 @@
+'''
+Code edited from https://gist.github.com/tliron/8e9757180506f25e46d9
+'''
+
 import sys, os, re, shutil, json, urllib.request, urllib.parse, urllib.error, urllib.request, urllib.error, urllib.parse, http.server
 import imp
-
 
 here = os.path.dirname(os.path.realpath(__file__))
 
